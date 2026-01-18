@@ -1,6 +1,6 @@
 # Semantic Alignment for Data Products
 
-This repository offers a practical pattern for aligning semantic meaning across business reference models, sector vocabularies, and distributed data products — especially where multiple teams and systems must collaborate coherently.
+This repository offers a practical pattern for aligning semantic meaning across business reference models, sector vocabularies, and distributed data products, especially where multiple teams and systems must collaborate coherently.
 
 It focuses on making meaning, structure, and ownership visible across organisational layers, rather than leaving alignment to informal agreement.
 
@@ -77,6 +77,6 @@ This is a working space, not a finished framework.
 
 ## Status
 
-Work in progress — focused on clarity, not completeness.  
+Work in progress, focused on clarity, not completeness.  
 This is a conceptual + technical exploration.
 
