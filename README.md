@@ -1,14 +1,22 @@
 # Semantic Alignment for Data Products
 
-This repository offers a practical pattern for aligning semantic meaning across business reference models, sector vocabularies, and distributed data products, especially where multiple teams and systems must collaborate coherently.
+This repository offers a practical pattern for **operationalising existing sector semantics** across distributed data products and teams.
 
-It focuses on making meaning, structure, and ownership visible across organisational layers, rather than leaving alignment to informal agreement.
+It builds on established foundations, such as **Nbility**, the **NBNL vocabulary**, and the **CIM profiles**, and focuses on making their use **explicit, coherent, and reusable** in data mesh–style environments.
+
+Rather than introducing new models or vocabularies, the goal is to connect what already exists to how data is actually produced, shared, and owned.
 
 ---
 
 ## Why this exists
 
-When data products, models, and vocabularies are developed independently, shared meaning often dissolves into assumption.
+In many organisations, strong semantic foundations already exist:
+
+- Business reference models (e.g. Nbility)  
+- Sector vocabularies (e.g. NBNL)  
+- Technical semantic standards (e.g. CIM)  
+
+However, when data products and domain teams are introduced, these foundations are often applied **implicitly**.
 
 As a result:
 
@@ -17,35 +25,35 @@ As a result:
 - Teams interpret “the same” concepts differently  
 - Governance becomes reactive instead of structural  
 
-This project explores how to keep **business intent, sector semantics, and data products structurally connected** in environments where shared understanding can no longer be assumed.
+This repository explores how to keep **existing semantic foundations** structurally connected to **data products and team ownership**.
 
 ---
 
 ## What this explores
 
-This repository experiments with aligning:
+This repository works with:
 
 - **Enterprise steering logic** (Nbility)  
-- **Sector semantics** (NBNL vocabulary, CIM)  
+- **Sector semantics** (NBNL vocabulary, CIM profiles)  
 - **Data products and domain ownership**  
 
-It does so by:
+It adds a practical alignment layer by:
 
-- Using **Nbility** to anchor data products in enterprise capabilities and processes  
-- Using the **NBNL vocabulary** as a shared business language  
-- Linking business concepts to **CIM classes and profiles**  
+- Anchoring data products in **existing business concepts**  
+- Using the **NBNL vocabulary** as the semantic reference  
+- Linking concepts to **CIM classes and profiles**  
 - Making **asset and function layers** explicit  
 - Respecting **multiple perspectives** (grid, market, enterprise)  
 - Treating data products as **structural components**, not just containers  
 
-The goal is not to create one “perfect model”, but to make alignment **visible, testable, and reusable** across teams.
+The goal is not to create a new model, but to make **semantic usage visible, testable, and reusable** across teams.
 
 ---
 
 ## Focus areas
 
 - CIM / NBNL semantic alignment  
-- Business-to-technical concept mapping  
+- Business-to-technical concept anchoring  
 - Asset & function layer separation  
 - Multi-perspective modelling  
 - Data product semantics  
@@ -77,6 +85,6 @@ This is a working space, not a finished framework.
 
 ## Status
 
-Work in progress, focused on clarity, not completeness.  
+Work in progress — focused on clarity, not completeness.  
 This is a conceptual + technical exploration.
 
