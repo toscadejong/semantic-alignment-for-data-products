@@ -32,10 +32,10 @@ Nbility provides the enterprise steering context above them, while conceptual mo
 
 With inside Functions the perspectives preserved:
 
-Function Semantics
-── Grid Perspective
-── Market Perspective
-── Enterprise Perspective
+Function Semantics has three subcategories
+- Grid Perspective
+- Market Perspective
+- Enterprise Perspective
 
 ---
 
