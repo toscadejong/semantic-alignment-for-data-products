@@ -118,7 +118,7 @@ Assets and functions are not the same thing:
 |------|----------|
 | Physical object | Behaviour / role |
 | Exists in space | Exists in operation |
-| Installed | Executed |
+| Installed | Execution potential |
 | Structural | Dynamic |
 
 Merging them leads to:
