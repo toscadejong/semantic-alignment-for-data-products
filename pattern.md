@@ -24,7 +24,7 @@ Nbility provides the enterprise steering context above them, while conceptual mo
    ┌────────────┬────────────┬────────────┐
    │ Components │   Assets   │ Functions  │   ← Horizontal semantic layers
    └────────────┴────────────┴────────────┘
-                CIM (Formal Structure)
+              CIM (Formal Structure)
                         │
                         ▼
                   Data Products
@@ -35,9 +35,9 @@ Nbility provides the enterprise steering context above them, while conceptual mo
 With inside Functions the perspectives preserved:
 
 Function Semantics
-   ├── Grid Perspective
-   ├── Market Perspective
-   └── Enterprise Perspective
+├── Grid Perspective
+├── Market Perspective
+└── Enterprise Perspective
 
 ---
 
