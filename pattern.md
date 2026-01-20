@@ -42,7 +42,7 @@ Function Semantics
 ---
 
 ### 1. Operational & Organisational Semantics  
-**How the grid is run and governed**
+**What does it require to operate and maintain an electricity grid?**
 
 - Maintenance  
 - Planning  
@@ -50,7 +50,7 @@ Function Semantics
 - Decision-making  
 - Accountability  
 
-This layer uses CIM-based representations and perspectives, and aligns them with organisational steering models such as Nbility.
+This layer uses the sector-aligned organisational steering model Nbility.
 
 Nbility does not replace CIM’s enterprise perspective.  
 It provides a broader framework for structuring how the organisation operates the grid.
