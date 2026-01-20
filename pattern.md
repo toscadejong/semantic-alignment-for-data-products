@@ -21,9 +21,7 @@ Nbility provides the enterprise steering context above them, while conceptual mo
                         │
                         │  (semantic mapping)
                         ▼
-   ┌────────────┬────────────┬────────────┐
-   │ Components │   Assets   │ Functions  │   ← Horizontal semantic layers
-   └────────────┴────────────┴────────────┘
+      │ Components │   Assets   │ Functions  │   ← Horizontal semantic layers
               CIM (Formal Structure)
                         │
                         ▼
