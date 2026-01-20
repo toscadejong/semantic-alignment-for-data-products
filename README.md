@@ -85,6 +85,6 @@ This is a working space, not a finished framework.
 
 ## Status
 
-Work in progress — focused on clarity, not completeness.  
+Work in progress, focused on gaining clarity, not completeness.  
 This is a conceptual + technical exploration.
 
