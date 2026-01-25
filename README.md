@@ -14,7 +14,7 @@ In many organisations, strong semantic foundations already exist:
 
 - Business reference models (e.g. Nbility)  
 - Sector vocabularies (e.g. NBNL)  
-- Technical semantic standards (e.g. CIM)  
+- Specialised electricity-domain semantic standards with formal structure (e.g. CIM)
 
 However, when data products and domain teams are introduced, these foundations are often applied **implicitly**.
 
@@ -34,15 +34,15 @@ This repository explores how to keep **existing semantic foundations** structura
 This repository works with:
 
 - **Enterprise steering logic** (Nbility)  
-- **Sector semantics** (NBNL vocabulary, CIM profiles)  
+- **Specialised electric domain semantics** (NBNL vocabulary, CIM profiles)  
 - **Data products and domain ownership**  
 
 It adds a practical alignment layer by:
 
 - Anchoring data products in **existing business concepts**  
-- Using the **NBNL vocabulary** as the semantic reference  
+- Using the **NBNL vocabulary** as the semantic reference that incorporates legislation 
 - Linking concepts to **CIM classes and profiles**  
-- Making **asset and function layers** explicit  
+- Making **component, asset and function layers** explicit  
 - Respecting **multiple perspectives** (grid, market, enterprise)  
 - Treating data products as **structural components**, not just containers  
 
@@ -53,8 +53,8 @@ The goal is not to create a new model, but to make **semantic usage visible, tes
 ## Focus areas
 
 - CIM / NBNL semantic alignment  
-- Business-to-technical concept anchoring  
-- Asset & function layer separation  
+- Business-to-technical and legislation-to-technical concept anchoring  
+- Component, asset & function layer separation  
 - Multi-perspective modelling  
 - Data product semantics  
 - Interoperability patterns  
