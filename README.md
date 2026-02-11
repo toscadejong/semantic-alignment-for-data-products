@@ -2,7 +2,7 @@
 
 This repository offers a practical pattern for **operationalising existing sector semantics** across distributed data products and teams.
 
-It builds on established foundations, such as **Nbility**, the **NBNL vocabulary**, and the **CIM profiles**, and focuses on making their use **explicit, coherent, and reusable** in data mesh–style environments.
+It builds on established foundations, such as **Nbility**, the **NBNL vocabulary**, and the **CIM profiles**, and focuses on making their use **explicit, coherent, and reusable** in data mesh–style environments. It's basically a semantic lifecycle mapped to process lifecycle to handle one's product throughout its evolvement over different departments and teams.
 
 Rather than introducing new models or vocabularies, the goal is to connect what already exists to how data is actually produced, shared, and owned.
 
